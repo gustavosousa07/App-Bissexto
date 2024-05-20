@@ -1,7 +1,7 @@
 # App-Bissexto
 ## App desenvolvido em aula, com a função de saber se o ano é bissexto ou não 
 <p align="center" >
-  <img src="img02.jpeg" alt="imagem do app" height="400" widht="350">
+  <img src="img02.jpeg" alt="imagem do app" height="600" widht="550">
 </p>
 
 
