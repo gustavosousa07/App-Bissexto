@@ -7,4 +7,4 @@ App desenvolvido em aula, com a função de saber se o ano é bissexto ou não
 </p>
 
 
-Desenvolvido por Gustavo Sousa, orientado pelo professor Jonatas.
+#### Desenvolvido por Gustavo Sousa, orientado pelo professor Jonatas.
