@@ -35,10 +35,10 @@ O algoritmo para determinar se um ano é bissexto segue estas regras:
 
 
 ## Capturas de tela do aplicativo
-
+<p>
   <img src="img02.jpeg" alt="imagem do app" height="600" widht="550">
   <img src="img01.jpeg" alt="imagem do app" height="600" widht="550">
-
+</p>
 ## Instalação
 
 1. Baixe o arquivo APK do aplicativo Leap Year Calculator.
