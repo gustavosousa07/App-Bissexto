@@ -1,6 +1,6 @@
 # App-Bissexto
 App desenvolvido em aula, com a função de saber se o ano é bissexto ou não 
-#Funções 
+# Funções 
 Colocando o ano na textbox e clicando no botão, ele indica se o ano é bissexto ou não.
 <p align="center" >
   <img src="img02.jpeg" alt="imagem do app" height="600" widht="550">
